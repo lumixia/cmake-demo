@@ -1,0 +1,16 @@
+This is a simple cmake template
+
+todo:
+$ mkdir build ; cd  build
+$ cmake ..
+$ make
+$ sudo make install
+$ demo (before run this maybe should exec "sudo ldconfig")
+
+include:
+ -- hello lib
+ -- demo bin
+
+Thanks
+
+lumixia <win.milan@gmail.com>
